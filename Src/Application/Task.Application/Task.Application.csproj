@@ -7,11 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Common\" />
-    <Folder Include="Tools\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\..\..\framework\AIPFramework\AIPFramework.csproj" />
     <ProjectReference Include="..\..\Domain\Task.Domain\Task.Domain.csproj" />
   </ItemGroup>
